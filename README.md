@@ -4,16 +4,6 @@
 
 **Spelling Bee** is an educational game where users can test their vocabulary skills. This project is developed using Java and JavaFX, providing a rich graphical user interface. The goal of the game is to form as many words as possible using the given letters to earn points.
 
-## Screenshot
-
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/kaanfsd/Stellar-Fullstack-Bootcamp/blob/main/public/1.png?raw=true" alt="Wallet1" width="500"/>
-    <img src="https://github.com/kaanfsd/Stellar-Fullstack-Bootcamp/blob/main/public/2.png?raw=true" alt="Wallet2" width="500"/>
-    <img src="https://github.com/kaanfsd/Stellar-Fullstack-Bootcamp/blob/main/public/3.png?raw=true" alt="Wallet3" width="500"/>
-    <img src="https://github.com/kaanfsd/Stellar-Fullstack-Bootcamp/blob/main/public/4.png?raw=true" alt="Wallet4" width="500"/>
-</div>
-
-
 
 In the above screenshot, the game interface is shown. The yellow hexagon in the center represents the letter that must be used in every word. The other hexagons display the additional letters that can be used. The panel on the right lists the words the user has found and the points earned.
 
